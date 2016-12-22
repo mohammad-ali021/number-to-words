@@ -1,5 +1,10 @@
 <?php
-
+/*
+* @author Mohammad Ali Abassi <ali.abassi@outlook.com>
+* @copyright 2016 Mohammad Ali Abassi
+* @link https://github.com/mohammad-ali021/number-to-word
+* @version 1.0.0
+*/
 if(! function_exists('convert_number_to_words'))
 {
 
