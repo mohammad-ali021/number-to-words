@@ -1,13 +1,13 @@
 # number-to-word
-Number to word is a helper function for codeigniter and laravel to convert number to words in English, Persian and Pashto.
+Number to words is a helper function for codeigniter and laravel to convert number to words in English, Persian and Pashto.
 
 steps:
 
-  1: move function_helper.php to your helpers directory
+  1: Move function_helper.php to your helpers directory
   
-  2: load the function helper in your controller or view 
+  2: Load the function helper in your controller or view 
   
-  3: simply call change_number_to_words(Number,Language)
+  3: Simply call change_number_to_words(Number,Language)
   
     Language:
     
