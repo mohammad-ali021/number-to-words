@@ -75,7 +75,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             //Load Convert To Word Helper Funtion
             $this->load->helper('function');
         ?>
-        <p>Persion: (12346543.345)</p>
+        <p>Persian: (12346543.345)</p>
         <code><?=change_number_to_words(12346543.345,'dr');?></code>
         <p>Pashto: (12346543.345)</p>
         <code><?=change_number_to_words(12346543.345,'pa');?></code>
